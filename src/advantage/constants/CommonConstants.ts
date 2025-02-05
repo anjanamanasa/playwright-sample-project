@@ -3,5 +3,6 @@ export default class CommonConstants {
     static readonly TRUE = 'true';
     static readonly TEN = 10;
     static readonly TWO = 2;
+    static readonly THREE = 3;
     static readonly DOWNLOADS_PATH = "./test-results/downloads/";
 }
